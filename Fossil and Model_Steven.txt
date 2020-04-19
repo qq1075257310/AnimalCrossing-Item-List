@@ -1,0 +1,235 @@
+No	Type	Name
+6020	Fossil	ankylo skull
+6021	Fossil	ankylo torso
+6022	Fossil	ankylo tail
+6023	Fossil	archelon skull
+6024	Fossil	archelon tail
+6025	Fossil	megacero skull
+6026	Fossil	megacero torso
+6027	Fossil	megacero tail
+6028	Fossil	dimetrodon skull
+6029	Fossil	dimetrodon torso
+6030	Fossil	iguanodon skull
+6031	Fossil	iguanodon torso
+6032	Fossil	iguanodon tail
+6033	Fossil	ophthalmo skull
+6034	Fossil	ophthalmo torso
+6035	Fossil	mammoth skull
+6036	Fossil	mammoth torso
+6037	Fossil	pachysaurus skull
+6038	Fossil	pachysaurus tail
+6039	Fossil	parasaur skull
+6040	Fossil	parasaur torso
+6041	Fossil	parasaur tail
+6042	Fossil	ptera body
+6043	Fossil	right ptera wing
+6044	Fossil	left ptera wing
+6045	Fossil	deinony torso
+6046	Fossil	deinony tail
+6047	Fossil	sabertooth skull
+6048	Fossil	sabertooth tail
+6049	Fossil	diplo skull
+6050	Fossil	diplo neck
+6051	Fossil	diplo chest
+6052	Fossil	diplo pelvis
+6053	Fossil	diplo tail
+6054	Fossil	spino skull
+6055	Fossil	spino torso
+6056	Fossil	spino tail
+6057	Fossil	stego skull
+6058	Fossil	stego torso
+6059	Fossil	stego tail
+6060	Fossil	plesio skull
+6061	Fossil	plesio body
+6062	Fossil	plesio tail
+6063	Fossil	T. rex skull
+6064	Fossil	T. rex torso
+6065	Fossil	T. rex tail
+6066	Fossil	tricera skull
+6067	Fossil	tricera torso
+6068	Fossil	tricera tail
+6069	Fossil	amber
+6070	Fossil	ammonite
+6071	Fossil	coprolite
+6072	Fossil	archaeopteryx
+6073	Fossil	dinosaur track
+6074	Fossil	australopith
+6075	Fossil	shark-tooth pattern
+6076	Fossil	trilobite
+6077	Fossil	fossil
+6078	Fossil	anomalocaris
+6079	Fossil	right megalo side
+6080	Fossil	left megalo side
+6081	Fossil	dunkleosteus
+6082	Fossil	myllokunmingia
+6083	Fossil	eusthenopteron
+6084	Fossil	acanthostega
+6085	Fossil	juramaia
+6086	Fossil	brachio skull
+6087	Fossil	brachio chest
+6088	Fossil	brachio pelvis
+6089	Fossil	brachio tail
+6090	Fossil	quetzal torso
+6091	Fossil	right quetzal wing
+6092	Fossil	left quetzal wing
+6093	Fossil	diplo tail tip
+6094	Model	saw stag model
+6095	Model	grand h. hercules model
+6096	Model	wasp model
+6097	Model	honeybee model
+6098	Model	scarab beetle model
+6099	Model	flea model
+6100	Model	mosquito model
+6101	Model	horned dynastid model
+6102	Model	tiger butterfly model
+6103	Model	brown cicada model
+6104	Model	R. Brooke's birdwing model
+6105	Model	red dragonfly model
+6106	Model	grand Q. A. birdwing model
+6107	Model	pondskater model
+6108	Model	ant model
+6109	Model	pill bug model
+6110	Model	wharf roach model
+6111	Model	moth model
+6112	Model	diving beetle model
+6113	Model	darner dragonfly model
+6114	Model	grand goliath beetle model
+6115	Model	fly model
+6116	Model	orchid mantis model
+6117	Model	tiger beetle model
+6118	Model	evening cicada model
+6119	Model	cyclommatus stag model
+6120	Model	firefly model
+6121	Model	dung beetle model
+6122	Model	rice grasshopper model
+6123	Model	mantis model
+6124	Model	stinkbug model
+6125	Model	citrus long-horned b. model
+6126	Model	peacock butterfly model
+6127	Model	snail model
+6128	Model	grasshopper model
+6129	Model	earth-boring dung b. model
+6130	Model	horned atlas model
+6131	Model	walking leaf model
+6132	Model	cricket model
+6133	Model	giant cicada model
+6134	Model	spider model
+6135	Model	agrias butterfly model
+6136	Model	robust cicada model
+6137	Model	bagworm model
+6138	Model	miyama stag model
+6139	Model	yellow butterfly model
+6140	Model	common butterfly model
+6141	Model	emperor butterfly model
+6142	Model	walking stick model
+6143	Model	rainbow stag model
+6144	Model	mole cricket model
+6145	Model	grand b. dragonfly model
+6146	Model	monarch butterfly model
+6147	Model	giant stag model
+6148	Model	golden stag model
+6149	Model	scorpion model
+6150	Model	cicada shell model
+6151	Model	bell cricket model
+6152	Model	long locust model
+6153	Model	jewel beetle model
+6154	Model	tarantula model
+6155	Model	ladybug model
+6156	Model	migratory locust model
+6157	Model	walker cicada model
+6158	Model	violin beetle model
+6159	Model	hermit crab model
+6160	Model	grand Atlas moth model
+6161	Model	horned elephant model
+6162	Model	common bluebottle model
+6163	Model	paper kite butterfly model
+6164	Model	great purple emperor model
+6165	Model	drone beetle model
+6166	Model	grand giraffe stag model
+6167	Model	man-faced stink bug model
+6168	Model	M. sunset moth model
+6169	Model	blue weevil beetle model
+6170	Model	rosalia batesi beetle model
+6171	Model	giant water bug model
+6172	Model	damselfly model
+6173	Model	centipede model
+6174	Model	crucian carp model
+6175	Model	goldfish model
+6176	Model	bitterling model
+6177	Model	horse mackerel model
+6178	Model	angelfish model
+6179	Model	arowana model
+6180	Model	sweetfish model
+6181	Model	betta model
+6182	Model	black bass model
+6183	Model	bluegill model
+6184	Model	football fish model
+6185	Model	butterfly fish model
+6186	Model	pop-eyed goldfish model
+6187	Model	barreleye model
+6188	Model	loach model
+6189	Model	nibble fish model
+6190	Model	freshwater goby model
+6191	Model	ray model
+6192	Model	saddled bichir model
+6193	Model	blowfish model
+6194	Model	gar model
+6195	Model	golden trout model
+6196	Model	guppy model
+6197	Model	ribbon eel model
+6198	Model	puffer fish model
+6199	Model	olive flounder model
+6200	Model	squid model
+6201	Model	barred knifejaw model
+6202	Model	stringfish model
+6203	Model	whale shark model
+6204	Model	frog model
+6205	Model	blue marlin model
+6206	Model	snapping turtle model
+6207	Model	dab model
+6208	Model	king salmon model
+6209	Model	suckerfish model
+6210	Model	carp model
+6211	Model	clown fish model
+6212	Model	sea butterfly model
+6213	Model	tuna model
+6214	Model	ocean sunfish model
+6215	Model	killifish model
+6216	Model	catfish model
+6217	Model	surgeonfish model
+6218	Model	Napoleonfish model
+6219	Model	neon tetra model
+6220	Model	koi model
+6221	Model	anchovy model
+6222	Model	pale chub model
+6223	Model	tadpole model
+6224	Model	saw shark model
+6225	Model	char model
+6226	Model	pike model
+6227	Model	piranha model
+6228	Model	arapaima model
+6229	Model	giant snakehead model
+6230	Model	rainbowfish model
+6231	Model	ranchu goldfish model
+6232	Model	giant trevally model
+6233	Model	oarfish model
+6234	Model	salmon model
+6235	Model	great white shark model
+6236	Model	mahi-mahi model
+6237	Model	hammerhead shark model
+6238	Model	coelacanth model
+6239	Model	soft-shelled turtle model
+6240	Model	sea bass model
+6241	Model	mitten crab model
+6242	Model	red snapper model
+6243	Model	sea horse model
+6244	Model	tilapia model
+6245	Model	sturgeon model
+6246	Model	dace model
+6247	Model	moray eel model
+6248	Model	pond smelt model
+6249	Model	cherry salmon model
+6250	Model	yellow perch model
+6251	Model	crawfish model
+6252	Model	zebra turkeyfish model
+6253	Model	dorado model

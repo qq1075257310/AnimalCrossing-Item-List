@@ -1,47 +1,24 @@
 No	Type		Name
-4905	HouseDoorDeco	cosmos wreath
-4906	HouseDoorDeco	snowflake wreath
-4907	HouseDoorDeco	shell wreath
-4908	HouseDoorDeco	ornament wreath
-4909	HouseDoorDeco	fruit wreath
-4910	HouseDoorDeco	mushroom wreath
-4911	HouseDoorDeco	tree branch wreath
-4912	HouseDoorDeco	skull doorplate
-4913	HouseDoorDeco	bone doorplate
-4914	HouseDoorDeco	iron doorplate
-4915	HouseDoorDeco	fish doorplate
-4916	HouseDoorDeco	heart doorplate
-4917	HouseDoorDeco	spider doorplate
-4918	HouseDoorDeco	windflower wreath
-4919	HouseDoorDeco	rose wreath
-4920	HouseDoorDeco	pansy wreath
-4921	HouseDoorDeco	mum wreath
-4922	HouseDoorDeco	hyacinth wreath
-4923	HouseDoorDeco	lily wreath
-4924	HouseDoorDeco	tulip wreath
-4925	HouseDoorDeco	fancy lily wreath
-4926	HouseDoorDeco	paw-print doorplate
-4927	HouseDoorDeco	crest doorplate
-4928	HouseDoorDeco	timber doorplate
-4929	HouseDoorDeco	fossil doorplate
-4930	HouseDoorDeco	pretty cosmos wreath
-4931	HouseDoorDeco	cool windflower wreath
-4932	HouseDoorDeco	fancy rose wreath
-4933	HouseDoorDeco	snazzy pansy wreath
-4934	HouseDoorDeco	fancy mum wreath
-4935	HouseDoorDeco	cool hyacinth wreath
-4936	HouseDoorDeco	pretty tulip wreath
-4937	HouseDoorDeco	chic cosmos wreath
-4938	HouseDoorDeco	chic windflower wreath
-4939	HouseDoorDeco	dark rose wreath
-4940	HouseDoorDeco	cool pansy wreath
-4941	HouseDoorDeco	natural mum wreath
-4942	HouseDoorDeco	purple hyacinth wreath
-4943	HouseDoorDeco	dark lily wreath
-4944	HouseDoorDeco	dark tulip wreath
-4945	HouseDoorDeco	blue rose wreath
-4946	HouseDoorDeco	gold rose wreath
-4947	HouseDoorDeco	Bunny Day wreath
+7212	Fence	brick fence
+7213	Fence	vertical-board fence
+7214	Fence	bamboo lattice fence
+7215	Fence	corral fence
+7216	Fence	country fence
+7217	Fence	rope fence
+7218	Fence	imperial fence
+7219	Fence	straw fence
+7220	Fence	iron fence
+7221	Fence	spiky fence
+7222	Fence	iron-and-stone fence
+7223	Fence	zen fence
+7224	Fence	stone fence
+7225	Fence	barbed-wire fence
+7226	Fence	simple wooden fence
+7227	Fence	lattice fence
+7228	Fence	コミューン島専用柵
+7229	Fence	Bunny Day fence
+8958	Fence	hedge
+8959	Fence	wedding fence
 6380	Ftr	clackercart
 6381	Ftr	rocking horse
 6382	Ftr	train set
@@ -871,21 +848,22 @@ No	Type		Name
 7206	Ftr	Nintendo Switch
 7207	Ftr	ACNH Nintendo Switch
 7208	Ftr	たぬきかいはつヘルメット
-7212	Fence	brick fence
-7213	Fence	vertical-board fence
-7214	Fence	bamboo lattice fence
-7215	Fence	corral fence
-7216	Fence	country fence
-7217	Fence	rope fence
-7218	Fence	imperial fence
-7219	Fence	straw fence
-7220	Fence	iron fence
-7221	Fence	spiky fence
-7222	Fence	iron-and-stone fence
-7223	Fence	zen fence
-7224	Fence	stone fence
-7225	Fence	barbed-wire fence
-7226	Fence	simple wooden fence
-7227	Fence	lattice fence
-7228	Fence	コミューン島専用柵
-7229	Fence	Bunny Day fence
+8936	Ftr	wedding bench
+8937	Ftr	wedding arch
+8938	Ftr	wedding cake
+8939	Ftr	wedding head table
+8940	Ftr	wedding chair
+8941	Ftr	wedding table
+8942	Ftr	wedding decoration
+8943	Ftr	wedding candle set
+8944	Ftr	wedding pipe organ
+8945	Ftr	wedding welcome board
+8946	Ftr	wedding flower stand
+8947	Ftr	thank-you Mom mug
+8948	Ftr	thank-you Dad mug
+8949	Ftr	Rover's briefcase
+8950	Ftr	fossil plaque
+8951	Ftr	bug plaque
+8952	Ftr	fish plaque
+8953	Ftr	Reese & Cyrus photo plate
+8954	Ftr	world map

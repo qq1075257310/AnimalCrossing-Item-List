@@ -571,3 +571,6 @@ No	Type		Name
 8386	DIY Recipe	Bunny Day wand
 8387	DIY Recipe	Bunny day fence
 8844	DIY Recipe	crescent-moon chair
+8955	DIY Recipe	hedge
+8956	DIY Recipe	wedding fence
+8957	DIY Recipe	wedding wand

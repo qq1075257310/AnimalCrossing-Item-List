@@ -1,0 +1,305 @@
+No	Type	Name
+6020	Fossil	ankylo skull
+6021	Fossil	ankylo torso
+6022	Fossil	ankylo tail
+6023	Fossil	archelon skull
+6024	Fossil	archelon tail
+6025	Fossil	megacero skull
+6026	Fossil	megacero torso
+6027	Fossil	megacero tail
+6028	Fossil	dimetrodon skull
+6029	Fossil	dimetrodon torso
+6030	Fossil	iguanodon skull
+6031	Fossil	iguanodon torso
+6032	Fossil	iguanodon tail
+6033	Fossil	ophthalmo skull
+6034	Fossil	ophthalmo torso
+6035	Fossil	mammoth skull
+6036	Fossil	mammoth torso
+6037	Fossil	pachysaurus skull
+6038	Fossil	pachysaurus tail
+6039	Fossil	parasaur skull
+6040	Fossil	parasaur torso
+6041	Fossil	parasaur tail
+6042	Fossil	ptera body
+6043	Fossil	right ptera wing
+6044	Fossil	left ptera wing
+6045	Fossil	deinony torso
+6046	Fossil	deinony tail
+6047	Fossil	sabertooth skull
+6048	Fossil	sabertooth tail
+6049	Fossil	diplo skull
+6050	Fossil	diplo neck
+6051	Fossil	diplo chest
+6052	Fossil	diplo pelvis
+6053	Fossil	diplo tail
+6054	Fossil	spino skull
+6055	Fossil	spino torso
+6056	Fossil	spino tail
+6057	Fossil	stego skull
+6058	Fossil	stego torso
+6059	Fossil	stego tail
+6060	Fossil	plesio skull
+6061	Fossil	plesio body
+6062	Fossil	plesio tail
+6063	Fossil	T. rex skull
+6064	Fossil	T. rex torso
+6065	Fossil	T. rex tail
+6066	Fossil	tricera skull
+6067	Fossil	tricera torso
+6068	Fossil	tricera tail
+6069	Fossil	amber
+6070	Fossil	ammonite
+6071	Fossil	coprolite
+6072	Fossil	archaeopteryx
+6073	Fossil	dinosaur track
+6074	Fossil	australopith
+6075	Fossil	shark-tooth pattern
+6076	Fossil	trilobite
+6077	Fossil	fossil
+6078	Fossil	anomalocaris
+6079	Fossil	right megalo side
+6080	Fossil	left megalo side
+6081	Fossil	dunkleosteus
+6082	Fossil	myllokunmingia
+6083	Fossil	eusthenopteron
+6084	Fossil	acanthostega
+6085	Fossil	juramaia
+6086	Fossil	brachio skull
+6087	Fossil	brachio chest
+6088	Fossil	brachio pelvis
+6089	Fossil	brachio tail
+6090	Fossil	quetzal torso
+6091	Fossil	right quetzal wing
+6092	Fossil	left quetzal wing
+6093	Fossil	diplo tail tip
+6094	Model	saw stag model
+6095	Model	grand h. hercules model
+6096	Model	wasp model
+6097	Model	honeybee model
+6098	Model	scarab beetle model
+6099	Model	flea model
+6100	Model	mosquito model
+6101	Model	horned dynastid model
+6102	Model	tiger butterfly model
+6103	Model	brown cicada model
+6104	Model	R. Brooke's birdwing model
+6105	Model	red dragonfly model
+6106	Model	grand Q. A. birdwing model
+6107	Model	pondskater model
+6108	Model	ant model
+6109	Model	pill bug model
+6110	Model	wharf roach model
+6111	Model	moth model
+6112	Model	diving beetle model
+6113	Model	darner dragonfly model
+6114	Model	grand goliath beetle model
+6115	Model	fly model
+6116	Model	orchid mantis model
+6117	Model	tiger beetle model
+6118	Model	evening cicada model
+6119	Model	cyclommatus stag model
+6120	Model	firefly model
+6121	Model	dung beetle model
+6122	Model	rice grasshopper model
+6123	Model	mantis model
+6124	Model	stinkbug model
+6125	Model	citrus long-horned b. model
+6126	Model	peacock butterfly model
+6127	Model	snail model
+6128	Model	grasshopper model
+6129	Model	earth-boring dung b. model
+6130	Model	horned atlas model
+6131	Model	walking leaf model
+6132	Model	cricket model
+6133	Model	giant cicada model
+6134	Model	spider model
+6135	Model	agrias butterfly model
+6136	Model	robust cicada model
+6137	Model	bagworm model
+6138	Model	miyama stag model
+6139	Model	yellow butterfly model
+6140	Model	common butterfly model
+6141	Model	emperor butterfly model
+6142	Model	walking stick model
+6143	Model	rainbow stag model
+6144	Model	mole cricket model
+6145	Model	grand b. dragonfly model
+6146	Model	monarch butterfly model
+6147	Model	giant stag model
+6148	Model	golden stag model
+6149	Model	scorpion model
+6150	Model	cicada shell model
+6151	Model	bell cricket model
+6152	Model	long locust model
+6153	Model	jewel beetle model
+6154	Model	tarantula model
+6155	Model	ladybug model
+6156	Model	migratory locust model
+6157	Model	walker cicada model
+6158	Model	violin beetle model
+6159	Model	hermit crab model
+6160	Model	grand Atlas moth model
+6161	Model	horned elephant model
+6162	Model	common bluebottle model
+6163	Model	paper kite butterfly model
+6164	Model	great purple emperor model
+6165	Model	drone beetle model
+6166	Model	grand giraffe stag model
+6167	Model	man-faced stink bug model
+6168	Model	M. sunset moth model
+6169	Model	blue weevil beetle model
+6170	Model	rosalia batesi beetle model
+6171	Model	giant water bug model
+6172	Model	damselfly model
+6173	Model	centipede model
+6174	Model	crucian carp model
+6175	Model	goldfish model
+6176	Model	bitterling model
+6177	Model	horse mackerel model
+6178	Model	angelfish model
+6179	Model	arowana model
+6180	Model	sweetfish model
+6181	Model	betta model
+6182	Model	black bass model
+6183	Model	bluegill model
+6184	Model	football fish model
+6185	Model	butterfly fish model
+6186	Model	pop-eyed goldfish model
+6187	Model	barreleye model
+6188	Model	loach model
+6189	Model	nibble fish model
+6190	Model	freshwater goby model
+6191	Model	ray model
+6192	Model	saddled bichir model
+6193	Model	blowfish model
+6194	Model	gar model
+6195	Model	golden trout model
+6196	Model	guppy model
+6197	Model	ribbon eel model
+6198	Model	puffer fish model
+6199	Model	olive flounder model
+6200	Model	squid model
+6201	Model	barred knifejaw model
+6202	Model	stringfish model
+6203	Model	whale shark model
+6204	Model	frog model
+6205	Model	blue marlin model
+6206	Model	snapping turtle model
+6207	Model	dab model
+6208	Model	king salmon model
+6209	Model	suckerfish model
+6210	Model	carp model
+6211	Model	clown fish model
+6212	Model	sea butterfly model
+6213	Model	tuna model
+6214	Model	ocean sunfish model
+6215	Model	killifish model
+6216	Model	catfish model
+6217	Model	surgeonfish model
+6218	Model	Napoleonfish model
+6219	Model	neon tetra model
+6220	Model	koi model
+6221	Model	anchovy model
+6222	Model	pale chub model
+6223	Model	tadpole model
+6224	Model	saw shark model
+6225	Model	char model
+6226	Model	pike model
+6227	Model	piranha model
+6228	Model	arapaima model
+6229	Model	giant snakehead model
+6230	Model	rainbowfish model
+6231	Model	ranchu goldfish model
+6232	Model	giant trevally model
+6233	Model	oarfish model
+6234	Model	salmon model
+6235	Model	great white shark model
+6236	Model	mahi-mahi model
+6237	Model	hammerhead shark model
+6238	Model	coelacanth model
+6239	Model	soft-shelled turtle model
+6240	Model	sea bass model
+6241	Model	mitten crab model
+6242	Model	red snapper model
+6243	Model	sea horse model
+6244	Model	tilapia model
+6245	Model	sturgeon model
+6246	Model	dace model
+6247	Model	moray eel model
+6248	Model	pond smelt model
+6249	Model	cherry salmon model
+6250	Model	yellow perch model
+6251	Model	crawfish model
+6252	Model	zebra turkeyfish model
+6253	Model	dorado model
+8859	painting	scenic painting
+8860	fake painting	graceful painting
+8861	painting	graceful painting
+8862	fake painting	quaint painting
+8863	painting	quaint painting
+8864	fake painting	basic painting
+8865	painting	basic painting
+8866	fake painting	famous painting
+8867	painting	famous painting
+8868	painting	perfect painting
+8869	fake painting	serene painting
+8870	painting	serene painting
+8871	fake painting	wistful painting
+8872	painting	wistful painting
+8873	fake painting	moving painting
+8874	painting	moving painting
+8875	painting	warm painting
+8876	painting	dynamic painting
+8877	fake painting	jolly painting
+8878	painting	jolly painting
+8879	painting	common painting
+8880	painting	proper painting
+8881	painting	nice painting
+8882	painting	flowery painting
+8883	painting	moody painting
+8884	fake painting	amazing painting
+8885	painting	amazing painting
+8886	fake painting	scary painting
+8887	painting	scary painting
+8888	painting	worthy painting
+8889	fake painting	solemn painting
+8890	painting	solemn painting
+8891	fake painting	wild painting right half
+8892	painting	wild painting right half
+8893	painting	calm painting
+8894	statue	motherly statue
+8895	fake statue	motherly statue
+8896	statue	gallant statue
+8897	fake statue	gallant statue
+8898	statue	robust statue
+8899	fake statue	robust statue
+8900	statue	ancient statue
+8901	fake statue	ancient statue
+8902	statue	great statue
+8903	statue	beautiful statue
+8904	fake statue	beautiful statue
+8905	statue	mystic statue
+8906	fake statue	mystic statue
+8907	statue	valiant statue
+8908	fake statue	valiant statue
+8909	statue	rock-head statue
+8910	fake statue	rock-head statue
+8911	statue	informative statue
+8912	fake statue	informative statue
+8913	statue	tremendous statue
+8914	fake statue	tremendous statue
+8915	statue	warrior statue
+8916	fake statue	warrior statue
+8917	statue	familiar statue
+8918	painting	wild painting left half
+8919	fake painting	wild painting left half
+8920	painting	twinkling painting
+8921	painting	academic painting
+8922	fake painting	academic painting
+8923	painting	sinking painting
+8924	painting	detailed painting
+8925	fake painting	detailed painting
+8926	painting	glowing painting
+8927	painting	mysterious painting
+8928	fake painting	scenic painting

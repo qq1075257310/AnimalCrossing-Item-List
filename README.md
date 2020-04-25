@@ -1,6 +1,6 @@
 # AnimalCrossing-Item-List
 Please select carefully!
-Usage:
+# Usage:
 if you want to buy 7809 DIY Recipe juicy-apple TV,note the No of it,just 7809 and send it to Steven.
 if you want to buy many items,Such as all Zodiac DIY Recipe,just send all of No to Steven like this:
 7899

@@ -1,0 +1,84 @@
+No	Type	Name	Color
+9037	Ftr	bamboo grass	
+9038	Ftr	pirate-ship cannon	
+9039	Ftr	pirate-ship helm	
+9040	Ftr	mermaid table	
+9041	Ftr	mermaid shelf	
+9042	Ftr	mermaid vanity	
+9043	Ftr	mermaid screen	
+9044	Ftr	mermaid lamp	
+9045	Ftr	mermaid wall clock	
+9046	Ftr	mermaid bed	
+9047	Ftr	mermaid closet	
+9048	Ftr	mermaid sofa	
+9049	Ftr	mermaid dresser	
+9050	Ftr	mermaid chair	
+9051	Ftr	sideways pirate barrel	
+9052	Ftr	pirate-treasure chest	
+9053	Ftr	pirate barrel	
+9054	DIY Recipe	mermaid table	
+9055	DIY Recipe	mermaid shelf	
+9056	DIY Recipe	mermaid vanity	
+9057	DIY Recipe	mermaid screen	
+9058	DIY Recipe	mermaid lamp	
+9059	DIY Recipe	mermaid wall clock	
+9060	DIY Recipe	mermaid bed	
+9061	DIY Recipe	mermaid closet	
+9062	DIY Recipe	mermaid sofa	
+9063	DIY Recipe	mermaid dresser	
+9064	DIY Recipe	mermaid chair	
+9065	DIY Recipe	mermaid wall	
+9066	DIY Recipe	mermaid flooring	
+9067	DIY Recipe	mermaid rug	
+9068	Wall	mermaid wall	
+9069	Wall	pirate wall	
+9070	Flooring	mermaid flooring	
+9071	Flooring	pirate flooring	
+9072	Mat	mermaid rug	
+9073	Mat	pirate rug	
+9074	Accessory	Nook Inc. snorkel	green
+9075	Accessory	snorkel mask	blue
+9076	Accessory	snorkel mask	orange
+9077	Accessory	snorkel mask	red
+9078	Accessory	snorkel mask	pink
+9079	Accessory	snorkel mask	green
+9080	Accessory	snorkel mask	black
+9081	Accessory	pirate eye patch	black
+9082	Accessory	pirate beard	colorful
+9083	Accessory	rounded beard	black
+9084	Accessory	curly mustache	black
+9085	Bottoms	pirate pants	black
+9086	Cap	mermaid tiara	white
+9087	Cap	pirate bandanna	blue
+9088	Cap	pirate bandanna	black
+9089	Cap	pirate bandanna	red
+9090	Cap	pirate-treasure crown	gray
+9091	Cap	pirate's hat	black
+9092	Diving Suit	Nook Inc. wet suit	green
+9093	Diving Suit	leaf-print wet suit	green
+9094	Diving Suit	leaf-print wet suit	light blue
+9095	Diving Suit	leaf-print wet suit	purple
+9096	Diving Suit	leaf-print wet suit	yellow
+9097	Diving Suit	horizontal-striped wet suit	black
+9098	Diving Suit	horizontal-striped wet suit	red
+9099	Diving Suit	horizontal-striped wet suit	blue
+9100	Diving Suit	horizontal-striped wet suit	yellow
+9101	OnePiece	mermaid princess dress	pink
+9102	OnePiece	mermaid princess dress	light blue
+9103	OnePiece	mermaid fishy dress	pink
+9104	OnePiece	mermaid fishy dress	light blue
+9105	OnePiece	pirate-treasure robe	black
+9106	OnePiece	pirate outfit	blue
+9107	OnePiece	pirate outfit	black
+9108	OnePiece	pirate outfit	red
+9109	OnePiece	pirate dress	blue
+9110	OnePiece	pirate dress	black
+9111	OnePiece	pirate dress	red
+9112	Shoes	mermaid shoes	light blue
+9113	Shoes	mermaid shoes	pink
+9114	Shoes	pirate boots	brown
+9115	Tops	sea captain's coat	blue
+9116	Tops	sea captain's coat	black
+9117	Tops	sea captain's coat	red
+9118	Material	pearl	
+			

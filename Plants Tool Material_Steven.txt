@@ -1,85 +1,4 @@
-No	Type	Name
-4588	Plants	apple
-4589	Plants	orange
-4590	Plants	pear
-4591	Plants	peach
-4592	Plants	cherry
-4593	Plants	coconut
-4594	Plants	bamboo shoot
-4597	Plants	clump of weeds
-4598	Plants	red-cosmos bag
-4601	Plants	white-cosmos bag
-4625	Plants	yellow-cosmos bag
-4638	Plants	white-tulip bag
-4642	Plants	red-tulip bag
-4646	Plants	yellow-tulip bag
-4662	Plants	white-pansy bag
-4666	Plants	red-pansy bag
-4670	Plants	yellow-pansy bag
-4683	Plants	white-rose bag
-4687	Plants	red-rose bag
-4691	Plants	yellow-rose bag
-4713	Plants	white-lily bag
-4717	Plants	red-lily bag
-4721	Plants	yellow-lily bag
-4733	Plants	elegant mushroom
-4734	Plants	round mushroom
-4735	Plants	skinny mushroom
-4736	Plants	flat mushroom
-4737	Plants	rare mushroom
-4764	Plants	white-windflower bag
-4768	Plants	orange-windflower bag
-4778	Plants	red-windflower bag
-4785	Plants	white-hyacinth bag
-4789	Plants	yellow-hyacinth bag
-4799	Plants	red-hyacinth bag
-4809	Plants	white-mum bag
-4813	Plants	yellow-mum bag
-4823	Plants	red-mum bag
-5437	Material	maple leaf
-5438	Material	tree branch
-5439	Material	bamboo piece
-5440	Material	softwood
-5441	Material	wood
-5442	Material	hardwood
-5443	Material	acorn
-5444	Material	pine cone
-5445	Material	young spring bamboo
-5446	Material	customization kit
-5447	Material	stone
-5448	Material	gold nugget
-5449	Material	iron nugget
-5450	Material	clay
-5451	Material	cherry-blossom petal
-5452	Material	snowflake
-5453	Material	large snowflake
-5454	Material	star fragment
-5455	Material	large star fragment
-5456	Material	Capricorn fragment
-5457	Material	Aquarius fragment
-5458	Material	Pisces fragment
-5459	Material	Aries fragment
-5460	Material	Taurus fragment
-5461	Material	Gemini fragment
-5462	Material	Cancer fragment
-5463	Material	Leo fragment
-5464	Material	Virgo fragment
-5465	Material	Libra fragment
-5466	Material	Scorpius fragment
-5467	Material	Sagittarius fragment
-5468	Material	communicator part
-5469	Material	rusted part
-5470	Material	earth egg
-5471	Material	stone egg
-5472	Material	leaf egg
-5473	Material	wood egg
-5474	Material	sky egg
-5475	Material	water egg
-8840	Material	red ornament
-8841	Material	blue ornament
-8842	Material	gold ornament
-8843	Material	wasp nest
-8845	Material	heart crystal
+No	type	Name
 6254	Tool	axe
 6255	Tool	flimsy axe
 6256	Tool	stone axe
@@ -136,3 +55,99 @@ No	Type	Name
 6310	Tool	elephant watering can
 6311	Tool	outdoorsy watering can
 6312	Tool	vaulting pole
+8857	Tool	wedding wand
+8858	Tool	worn axe
+9032	Tool	tambourine
+9033	Tool	pan flute
+9034	Tool	ocarina
+9036	Tool	light stick
+4588	Material	apple
+4589	Material	orange
+4590	Material	pear
+4591	Material	peach
+4592	Material	cherry
+4593	Material	coconut
+4594	Material	bamboo shoot
+4733	Material	elegant mushroom
+4734	Material	round mushroom
+4735	Material	skinny mushroom
+4736	Material	flat mushroom
+4737	Material	rare mushroom
+5437	Material	maple leaf
+5438	Material	tree branch
+5439	Material	bamboo piece
+5440	Material	softwood
+5441	Material	wood
+5442	Material	hardwood
+5443	Material	acorn
+5444	Material	pine cone
+5445	Material	young spring bamboo
+5446	Material	customization kit
+5447	Material	stone
+5448	Material	gold nugget
+5449	Material	iron nugget
+5450	Material	clay
+5451	Material	cherry-blossom petal
+5452	Material	snowflake
+5453	Material	large snowflake
+5454	Material	star fragment
+5455	Material	large star fragment
+5456	Material	Capricorn fragment
+5457	Material	Aquarius fragment
+5458	Material	Pisces fragment
+5459	Material	Aries fragment
+5460	Material	Taurus fragment
+5461	Material	Gemini fragment
+5462	Material	Cancer fragment
+5463	Material	Leo fragment
+5464	Material	Virgo fragment
+5465	Material	Libra fragment
+5466	Material	Scorpius fragment
+5467	Material	Sagittarius fragment
+5469	Material	rusted part
+5470	Material	earth egg
+5471	Material	stone egg
+5472	Material	leaf egg
+5473	Material	wood egg
+5474	Material	sky egg
+5475	Material	water egg
+8840	Material	red ornament
+8841	Material	blue ornament
+8842	Material	gold ornament
+8843	Material	wasp nest
+8845	Material	heart crystal
+9035	Material	old tire
+9118	Material	pearl
+4598	Plants	red-cosmos bag
+4601	Plants	white-cosmos bag
+4625	Plants	yellow-cosmos bag
+4638	Plants	white-tulip bag
+4642	Plants	red-tulip bag
+4646	Plants	yellow-tulip bag
+4662	Plants	white-pansy bag
+4666	Plants	red-pansy bag
+4670	Plants	yellow-pansy bag
+4683	Plants	white-rose bag
+4687	Plants	red-rose bag
+4691	Plants	yellow-rose bag
+4713	Plants	white-lily bag
+4717	Plants	red-lily bag
+4721	Plants	yellow-lily bag
+4764	Plants	white-windflower bag
+4768	Plants	orange-windflower bag
+4778	Plants	red-windflower bag
+4785	Plants	white-hyacinth bag
+4789	Plants	yellow-hyacinth bag
+4799	Plants	red-hyacinth bag
+4809	Plants	white-mum bag
+4813	Plants	yellow-mum bag
+4823	Plants	red-mum bag
+4570	Shell	sea snail
+4571	Shell	venus comb
+4572	Shell	conch
+4573	Shell	sand dollar
+4574	Shell	coral
+4575	Shell	giant clam
+4576	Shell	cowrie
+4577	Shell	manila clam
+4578	Shell	summer shell
